@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Palabras de Vida</string>
+    <string name="action_settings"></string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="facebook_app_id">136367786770515</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
+
